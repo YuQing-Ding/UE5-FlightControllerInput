@@ -131,13 +131,7 @@ When running the project, the Output Log will display detected devices and live 
 ## License & Author
 
 **Author:** YUQING DING
+
 **Copyright:** © 2025 YUQING DING. All Rights Reserved.
-**License:** Proprietary – All Rights Reserved
-**Contact:** Private Developer – Unreal Flight Input Framework
 
 ---
-
-## Summary
-
-**FlightControllerInput** provides a clean, low-level integration for HID flight controllers on Windows platforms.
-By exposing physical joystick and button data through Unreal’s input system, it allows developers to build flight simulators, RC training environments, and drone control experiments with full real-time input precision.
